@@ -13,3 +13,7 @@ trc.taboola.com
 static.ad-delivery.net
 analytics.amazon.com
 pixel.quantserve.com
+td.doubleclick.net
+swankyrule.zomap.de
+ad.yieldlab.net
+paid.outbrain.com
