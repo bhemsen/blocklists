@@ -1,0 +1,15 @@
+
+aax-eu.amazon-adsystem.com
+ad.doubleclick.net
+ade.googlesyndication.com
+adservice.google.com
+adservice.google.de
+servedby.flashtalking.com
+ad.yieldlab.net
+ads.mgm.adition.com
+script.ioam.de
+track.adform.net
+trc.taboola.com
+static.ad-delivery.net
+analytics.amazon.com
+pixel.quantserve.com
