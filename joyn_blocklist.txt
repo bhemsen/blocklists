@@ -1,19 +1,19 @@
 
-aax-eu.amazon-adsystem.com
-ad.doubleclick.net
-ade.googlesyndication.com
-adservice.google.com
-adservice.google.de
-servedby.flashtalking.com
-ad.yieldlab.net
-ads.mgm.adition.com
-script.ioam.de
-track.adform.net
-trc.taboola.com
-static.ad-delivery.net
-analytics.amazon.com
-pixel.quantserve.com
-td.doubleclick.net
-swankyrule.zomap.de
-ad.yieldlab.net
-paid.outbrain.com
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.de
+0.0.0.0 servedby.flashtalking.com
+0.0.0.0 ad.yieldlab.net
+0.0.0.0 ads.mgm.adition.com
+0.0.0.0 script.ioam.de
+0.0.0.0 track.adform.net
+0.0.0.0 trc.taboola.com
+0.0.0.0 static.ad-delivery.net
+0.0.0.0 analytics.amazon.com
+0.0.0.0 pixel.quantserve.com
+0.0.0.0 td.doubleclick.net
+0.0.0.0 swankyrule.zomap.de
+0.0.0.0 ad.yieldlab.net
+0.0.0.0 paid.outbrain.com
